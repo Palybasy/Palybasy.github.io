@@ -558,6 +558,7 @@ opacity: 1;
 
 /*------------start container-decor-------------------------------------*/
 .container-decor {
+	min-width:1160px;
 	min-height: 390px;
  background: linear-gradient(to top, #e6e6e6 77%, #fff 23% );
 }
@@ -868,6 +869,7 @@ display: none;
 
 /*------------Footer-----------------------------------*/
 footer {
+	min-width:1160px;
 	min-height: 325px;
 	background: #444444;
 }
